@@ -1,0 +1,8 @@
+# For Python 3.14 (kokoro 0.9.4 doesn't support 3.14, so use kokoro-onnx)
+faster-whisper==1.1.1
+kokoro-onnx==0.4.7
+gradio==5.12.0
+soundfile==0.12.1
+numpy==1.26.4
+onnxruntime==1.19.2
+openai==1.57.0

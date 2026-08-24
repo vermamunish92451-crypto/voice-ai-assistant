@@ -1,0 +1,10 @@
+# Voice AI Assistant - Kokoro + Faster-Whisper
+faster-whisper==1.1.1
+kokoro==0.9.4
+gradio==5.12.0
+soundfile==0.12.1
+numpy==1.26.4
+onnxruntime==1.19.2
+# LLM options - choose one (uncomment as needed)
+openai==1.57.0          # for OpenAI / Groq compatible API
+# ollama==0.4.2         # for local Ollama - uncomment if using Ollama
